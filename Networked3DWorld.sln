@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networked3DWorld", "Networked3DWorld.csproj", "{96693D64-3740-1A60-27DA-04AB65939B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networked3DWorld.Plugins", "Networked3DWorld.Plugins.csproj", "{4394E816-4880-9755-49EC-31552670B72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networked3DWorld.Editor.Plugins", "Networked3DWorld.Editor.Plugins.csproj", "{FF354327-95EB-133C-77DE-2A1780B462AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96693D64-3740-1A60-27DA-04AB65939B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96693D64-3740-1A60-27DA-04AB65939B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96693D64-3740-1A60-27DA-04AB65939B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96693D64-3740-1A60-27DA-04AB65939B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4394E816-4880-9755-49EC-31552670B72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4394E816-4880-9755-49EC-31552670B72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4394E816-4880-9755-49EC-31552670B72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4394E816-4880-9755-49EC-31552670B72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF354327-95EB-133C-77DE-2A1780B462AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF354327-95EB-133C-77DE-2A1780B462AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF354327-95EB-133C-77DE-2A1780B462AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF354327-95EB-133C-77DE-2A1780B462AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
